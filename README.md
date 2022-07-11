@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to 鼠鼠取餐 👋</h1>
 
-[<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/t.png" alt="logo" style="zoom: 80%;" />](http://order.itbear666.top:82/)
+[<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/t.png" alt="logo" width=500px />](http://order.itbear666.top:82/)
 
 
 > 2021-2022 学年春季学期《JavaEE开发技术》大作业 --->>> 鼠鼠取餐 (shu取餐App)
@@ -25,27 +25,27 @@
 
 首页作为APP，展示了部分商家与美食关键词搜索。
 
-<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602000059.png" style="zoom:50%;" />
+<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602000059.png" width=500px />
 
 ## 餐厅搜索
 
 搜索时支持多条件排序，并显示历史搜索记录。
 
-<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602085418.png" style="zoom:50%;" />
+<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602085418.png" width=500px />
 
 ## 点餐评论
 
 商家内提供点餐操作，并没有做真实的支付功能。点餐成功后该商家人均价格与销售量会改变。
 
-<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602081352.png" style="zoom:50%;" />
+<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602081352.png" width=500px />
 
 订单评论，支持多图上传评价与基本的打分功能。
 
-<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602081937.png" style="zoom:50%;" />
+<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602081937.png" width=500px />
 
 订单完成后，可以在最近常买中快捷定位商家。
 
-<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602082152.png" style="zoom:50%;" />
+<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602082152.png" width=500px />
 
 
 
@@ -55,7 +55,7 @@
 
 客户使用二维码即可在商家端部分扫码核销
 
-<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602081155.png" style="zoom:50%;" />
+<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602081155.png" width=500px />
 
 
 
@@ -65,11 +65,11 @@
 
 商家可以查看商店内的商品，获取每件商品的销量与库存，并且可以商家，调整价格等
 
-<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602082949.png" style="zoom:50%;" />
+<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602082949.png" width=500px />
 
 修改商家营业状态，核销用户点餐二维码
 
-<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602083816.png" style="zoom:50%;" />
+<img src="https://shu-silence.oss-cn-shanghai.aliyuncs.com/img/2022/20220602083816.png" width=500px />
 
 ## 技术选型
 
